@@ -50,3 +50,4 @@ Gemini Chat is licensed under the GPL v3 License. See the LICENSE file for more 
 
 **Note:** The application requires an API key from Google AI (formerly Bard) to function. You can obtain an API key by following the instructions provided on the Google AI website.
 
+**Donations:** If you like this program and want to encourage me to do more, consider buying me a coffee: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E3UW3O1)
